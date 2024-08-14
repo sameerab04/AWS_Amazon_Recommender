@@ -1,6 +1,5 @@
 # AWS Amazon Recommender
 
-**Author**: Sameera Boppana
 
 ## Overview
 
@@ -30,8 +29,6 @@ The Amazon User Recommender App is designed to train a content-based and a colla
 - [Deployment](#deployment)
 - [Challenges and Future Work](#challenges-and-future-work)
 - [How to Use](#how-to-use)
-- [Repository Structure](#repository-structure)
-- [Contributors](#contributors)
 
 ## Project Objective
 
